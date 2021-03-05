@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 library(tidyverse) 
 library(dsbox) 
-View(dennys)
+###View(dennys)
 ```
 
 ```{r}
